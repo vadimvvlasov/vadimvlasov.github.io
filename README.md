@@ -1,9 +1,9 @@
 # vadimvvlasov.github.io
 # Резюме
 
-Вадим Власов
+__Вадим Власов__
 
-ML NLP developer, Python Programmer, responsive website layout
+__ML NLP developer, Python Programmer, responsive website layout__
 
 КЛЮЧЕВЫЕ НАВЫКИ
 
